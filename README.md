@@ -1,3 +1,5 @@
 # Docker Boilerplates
 
-Docker Deployment
+Docker Deployment scripts from University of New Mexico, ECE530
+
+Spring 2023
