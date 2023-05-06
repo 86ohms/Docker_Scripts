@@ -1,0 +1,1 @@
+Download full directory and run "docker-compose up" from top level directory.
